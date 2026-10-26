@@ -1,0 +1,349 @@
+{
+  "errors": [],
+  "layouts": [
+    {
+      "width": 320,
+      "route": "",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "route": "#mundo/aria",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "route": "#mundo/onepiece",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "route": "#mundo/nmixx",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "route": "#mundo/wjsn",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "#mundo/aria",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "#mundo/onepiece",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "#mundo/nmixx",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "#mundo/wjsn",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "route": "",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "route": "#mundo/aria",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "route": "#mundo/onepiece",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "route": "#mundo/nmixx",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "route": "#mundo/wjsn",
+      "overflow": false
+    },
+    {
+      "width": 1280,
+      "route": "",
+      "overflow": false
+    },
+    {
+      "width": 1280,
+      "route": "#mundo/aria",
+      "overflow": false
+    },
+    {
+      "width": 1280,
+      "route": "#mundo/onepiece",
+      "overflow": false
+    },
+    {
+      "width": 1280,
+      "route": "#mundo/nmixx",
+      "overflow": false
+    },
+    {
+      "width": 1280,
+      "route": "#mundo/wjsn",
+      "overflow": false
+    }
+  ],
+  "audits": [
+    {
+      "state": "home",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "count": 22
+        }
+      ]
+    },
+    {
+      "state": "home-dark",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "count": 22
+        }
+      ]
+    },
+    {
+      "state": "aria",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "count": 39
+        }
+      ]
+    },
+    {
+      "state": "aria-dark",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "count": 39
+        }
+      ]
+    },
+    {
+      "state": "onepiece",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "count": 39
+        }
+      ]
+    },
+    {
+      "state": "onepiece-dark",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "count": 39
+        }
+      ]
+    },
+    {
+      "state": "nmixx",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "count": 39
+        }
+      ]
+    },
+    {
+      "state": "nmixx-dark",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "count": 39
+        }
+      ]
+    },
+    {
+      "state": "wjsn",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "count": 39
+        }
+      ]
+    },
+    {
+      "state": "wjsn-dark",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "count": 39
+        }
+      ]
+    }
+  ],
+  "functional": [
+    {
+      "homeHeading": [
+        "Em qual mundo você quer entrar?"
+      ],
+      "choices": 4,
+      "topHidden": true,
+      "extraSections": 0
+    },
+    {
+      "openKeyboard": "page-title"
+    },
+    {
+      "id": "aria",
+      "questionCount": 0,
+      "description": 322,
+      "audioSources": 1
+    },
+    {
+      "id": "onepiece",
+      "questionCount": 0,
+      "description": 292,
+      "audioSources": 1
+    },
+    {
+      "id": "nmixx",
+      "questionCount": 0,
+      "description": 328,
+      "audioSources": 1
+    },
+    {
+      "id": "wjsn",
+      "questionCount": 0,
+      "description": 339,
+      "audioSources": 1
+    },
+    {
+      "forcedColorChoices": 4,
+      "overflow": false
+    },
+    {
+      "noJSStories": 4,
+      "oldQuestions": 0
+    }
+  ],
+  "motion": [
+    {
+      "id": "aria",
+      "keyboardRipple": 1
+    },
+    {
+      "id": "aria",
+      "parallax": "matrix(1, 0, 0, 1, 0, 3.555)"
+    },
+    {
+      "id": "aria",
+      "off": true,
+      "background": "none",
+      "ripples": 0
+    },
+    {
+      "id": "onepiece",
+      "keyboardRipple": 1
+    },
+    {
+      "id": "onepiece",
+      "parallax": "matrix(1, 0, 0, 1, 0, 3.555)"
+    },
+    {
+      "id": "onepiece",
+      "off": true,
+      "background": "none",
+      "ripples": 0
+    },
+    {
+      "id": "nmixx",
+      "keyboardRipple": 1
+    },
+    {
+      "id": "nmixx",
+      "parallax": "matrix(1, 0, 0, 1, 0, 3.555)"
+    },
+    {
+      "id": "nmixx",
+      "off": true,
+      "background": "none",
+      "ripples": 0
+    },
+    {
+      "id": "wjsn",
+      "keyboardRipple": 1
+    },
+    {
+      "id": "wjsn",
+      "parallax": "matrix(1, 0, 0, 1, 0, 3.555)"
+    },
+    {
+      "id": "wjsn",
+      "off": true,
+      "background": "none",
+      "ripples": 0
+    },
+    {
+      "reduced": true,
+      "controlDisabled": true,
+      "stageDisabled": true,
+      "background": "none"
+    },
+    {
+      "savedOff": "false"
+    }
+  ],
+  "text": [
+    {
+      "route": "",
+      "overflow": false
+    },
+    {
+      "route": "#mundo/aria",
+      "overflow": false
+    },
+    {
+      "route": "#mundo/onepiece",
+      "overflow": false
+    },
+    {
+      "route": "#mundo/nmixx",
+      "overflow": false
+    },
+    {
+      "route": "#mundo/wjsn",
+      "overflow": false
+    },
+    {
+      "route": "leitura.html",
+      "overflow": false
+    },
+    {
+      "route": "sobre.html",
+      "overflow": false
+    }
+  ]
+}
