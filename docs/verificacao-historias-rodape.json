@@ -1,0 +1,228 @@
+{
+  "errors": [],
+  "layouts": [
+    {
+      "width": 320,
+      "route": "",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "route": "#mundo/aria",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "route": "#mundo/onepiece",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "route": "#mundo/nmixx",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "route": "#mundo/wjsn",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "route": "leitura.html",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "route": "sobre.html",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "#mundo/aria",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "#mundo/onepiece",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "#mundo/nmixx",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "#mundo/wjsn",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "leitura.html",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "sobre.html",
+      "overflow": false
+    },
+    {
+      "width": 1280,
+      "route": "",
+      "overflow": false
+    },
+    {
+      "width": 1280,
+      "route": "#mundo/aria",
+      "overflow": false
+    },
+    {
+      "width": 1280,
+      "route": "#mundo/onepiece",
+      "overflow": false
+    },
+    {
+      "width": 1280,
+      "route": "#mundo/nmixx",
+      "overflow": false
+    },
+    {
+      "width": 1280,
+      "route": "#mundo/wjsn",
+      "overflow": false
+    },
+    {
+      "width": 1280,
+      "route": "leitura.html",
+      "overflow": false
+    },
+    {
+      "width": 1280,
+      "route": "sobre.html",
+      "overflow": false
+    }
+  ],
+  "audits": [
+    {
+      "route": "",
+      "theme": "light",
+      "violations": [],
+      "incomplete": [
+        "color-contrast"
+      ]
+    },
+    {
+      "route": "",
+      "theme": "dark",
+      "violations": [],
+      "incomplete": [
+        "color-contrast"
+      ]
+    },
+    {
+      "route": "#mundo/aria",
+      "theme": "light",
+      "violations": [],
+      "incomplete": [
+        "color-contrast"
+      ]
+    },
+    {
+      "route": "#mundo/aria",
+      "theme": "dark",
+      "violations": [],
+      "incomplete": [
+        "color-contrast"
+      ]
+    },
+    {
+      "route": "#mundo/onepiece",
+      "theme": "light",
+      "violations": [],
+      "incomplete": [
+        "color-contrast"
+      ]
+    },
+    {
+      "route": "#mundo/onepiece",
+      "theme": "dark",
+      "violations": [],
+      "incomplete": [
+        "color-contrast"
+      ]
+    },
+    {
+      "route": "#mundo/nmixx",
+      "theme": "light",
+      "violations": [],
+      "incomplete": [
+        "color-contrast"
+      ]
+    },
+    {
+      "route": "#mundo/nmixx",
+      "theme": "dark",
+      "violations": [],
+      "incomplete": [
+        "color-contrast"
+      ]
+    },
+    {
+      "route": "#mundo/wjsn",
+      "theme": "light",
+      "violations": [],
+      "incomplete": [
+        "color-contrast"
+      ]
+    },
+    {
+      "route": "#mundo/wjsn",
+      "theme": "dark",
+      "violations": [],
+      "incomplete": [
+        "color-contrast"
+      ]
+    }
+  ],
+  "stories": [
+    {
+      "route": "#mundo/aria",
+      "paragraphs": 6,
+      "words": 284
+    },
+    {
+      "route": "#mundo/onepiece",
+      "paragraphs": 6,
+      "words": 295
+    },
+    {
+      "route": "#mundo/nmixx",
+      "paragraphs": 6,
+      "words": 286
+    },
+    {
+      "route": "#mundo/wjsn",
+      "paragraphs": 6,
+      "words": 282
+    }
+  ],
+  "spacing": [
+    {
+      "route": "",
+      "overflow": false
+    },
+    {
+      "route": "#mundo/wjsn",
+      "overflow": false
+    }
+  ],
+  "forcedColors": {
+    "answers": 4,
+    "overflow": false
+  }
+}

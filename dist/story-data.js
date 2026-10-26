@@ -3,22 +3,22 @@ const STORY_DATA = {
     "number": "01",
     "visual": "quad-aria",
     "palette": "#6ce6d2",
-    "hook": "O passeio pelos canais ia durar meia hora. A gôndola parou antes da primeira ponte.",
+    "hook": "A gondoleira recolhe o remo. Debaixo da ponte, alguma coisa bate três vezes na madeira.",
     "scenes": [
       {
-        "label": "01 · O passeio",
-        "title": "Era pra ser uma volta rápida",
-        "text": "Você escolhe o lugar na ponta da gôndola. Dá pra ver as janelas quase encostando na água e ouvir o remo a cada curva. A ideia era atravessar a cidade e voltar antes de escurecer. Só que, perto da ponte, a gondoleira diminui o ritmo."
+        "label": "01 · A ponte",
+        "title": "O passeio parou ali",
+        "text": "A primeira batida vem quando a gôndola entra na sombra da ponte. Você olha pra gondoleira, esperando que ela explique. Ela só ergue a mão, pedindo silêncio. Mais duas batidas. A água continua correndo, mas o barco quase não sai do lugar.\n\nEra pra ser uma volta rápida pelos canais. Você até tinha escolhido onde parar pra comer depois. Agora está tentando enxergar entre os pilares, onde uma faixa de tecido vermelho aparece e some. A gondoleira aponta o remo naquela direção. Tem um barco ali."
       },
       {
-        "label": "02 · A parada",
-        "title": "Tem alguma coisa no caminho",
-        "text": "Um saco ficou preso junto à margem. Atrás dele, outros resíduos se acumulam. A gondoleira faz a volta. O atraso é pequeno pra quem está passeando; pra quem usa o canal todos os dias, aquele trecho faz parte do caminho de casa."
+        "label": "02 · O outro lado",
+        "title": "Alguém ficou preso",
+        "text": "Um homem levanta o braço do outro lado do pilar. É o entregador que vocês viram mais cedo, com caixas empilhadas na proa. Ele bateu no casco pra chamar atenção. O barco está encostado num monte de resíduos que a corrente juntou na passagem. O tecido vermelho é parte de um saco preso entre eles.\n\n“Pela esquerda não dá”, ele avisa. A gondoleira recua devagar. Você acompanha o movimento do saco, torcendo pra ele se soltar. Não solta. Ela chama alguém no cais, e uma pessoa desce os degraus para ajudar a sinalizar o bloqueio."
       },
       {
-        "label": "03 · A volta",
-        "title": "O canal também é uma rua",
-        "text": "Na volta, você começa a reparar nas saídas de água dos prédios. Tirar aquele saco ajudaria, mas o canal continuaria recebendo o que vem da cidade. Cuidar dele envolve coleta de resíduos, tratamento de esgoto e gente acompanhando se esses serviços funcionam."
+        "label": "03 · O cais",
+        "title": "A entrega ainda estava esperando",
+        "text": "Vocês saem por outro canal enquanto o entregador espera a equipe que cuida daquela passagem. Antes de fazer a curva, você vê uma mulher acenando de uma janela para as caixas. A entrega era dela. O problema debaixo da ponte já tinha chegado até lá em cima.\n\nPerto do cais, a gondoleira comenta que aquele trecho tinha sido limpo há pouco tempo. Você olha para as saídas de água entre os prédios e tenta imaginar o caminho dos resíduos até a ponte. Na volta, a passagem continua fechada. O entregador reconhece vocês e levanta a mão. Dessa vez, ninguém precisa bater no barco."
       }
     ],
     "mediaTitle": "Os canais de ARIA",
@@ -32,22 +32,22 @@ const STORY_DATA = {
     "number": "02",
     "visual": "quad-onepiece",
     "palette": "#ffc18d",
-    "hook": "A tripulação procurava uma ilha. Uma tampinha na água chamou sua atenção primeiro.",
+    "hook": "O casco dá um estalo. Depois outro. Você se debruça para olhar, mas o que bateu no barco já sumiu.",
     "scenes": [
       {
-        "label": "01 · A partida",
-        "title": "A ilha estava no mapa",
-        "text": "Você confere a rota mais uma vez. Tem uma ilha depois da curva da costa, e a tripulação quer chegar antes da noite. O vento ajuda. Por alguns minutos, a única preocupação é manter as velas no lugar."
+        "label": "01 · A bordo",
+        "title": "O barulho veio de baixo",
+        "text": "Você sente a primeira batida pelo chão do convés. A tripulação está ocupada ajustando as velas e quase ninguém percebe. Só quando o som se repete alguém para de puxar a corda. O capitão olha para a água, depois para o mapa aberto sobre uma caixa. Ainda falta um bom trecho até a ilha.\n\nVocê procura alguma coisa junto ao casco. Uma pedra não chegaria ali. Outro barco estaria visível. Então uma embalagem amassada reaparece atrás da popa, rodando na espuma. Uma tampinha passa logo depois. Mais à frente, alguma coisa vermelha corta a água."
       },
       {
-        "label": "02 · A pista",
-        "title": "Uma tampinha longe da praia",
-        "text": "Uma tampinha passa ao lado do casco. Depois aparece uma embalagem. Não há outro barco por perto. Você acompanha os objetos com os olhos até perceber uma faixa de água diferente junto à costa: ali, um rio encontra o mar."
+        "label": "02 · A corrente",
+        "title": "Tudo seguia a mesma linha",
+        "text": "Não é uma criatura. É uma boia quebrada, quase toda submersa. O capitão ajusta a rota para passar longe. Você acompanha a boia até ela desaparecer atrás de uma onda. Quando volta a olhar para a frente, percebe outros objetos espalhados numa faixa estreita, todos seguindo a mesma direção.\n\nA ilha está do outro lado daquela faixa. O capitão chama você para perto do mapa e aponta uma abertura na costa. Um rio deságua ali. Você olha de novo para o mar: a água muda de aparência perto da foz, e os objetos continuam chegando. Não dá pra ver onde esse caminho começa."
       },
       {
         "label": "03 · O mapa",
-        "title": "A viagem começou em terra",
-        "text": "Você abre o mapa de novo e segue o rio com o dedo. Ele passa por lugares que o barco nunca vai visitar. A ilha continua sendo o destino, mas agora a rota inclui uma pista: o que acontece nesses lugares também pode chegar ao oceano."
+        "title": "Faltava um pedaço da viagem",
+        "text": "O barco contorna a corrente. A ilha reaparece entre as velas, menor do que você esperava. Antes de guardar o mapa, você segue o rio com o dedo. Ele some na borda do papel. Você vira a folha, mesmo sabendo que não há nada desenhado atrás.\n\n“Esse mapa é só da costa”, diz o capitão. Você pede o lápis e marca o ponto onde encontrou a boia. Ao lado, anota o nome do rio. Quando a tripulação avisa que já dá pra ver o cais, você ainda está olhando para aquela linha que continua fora do mapa."
       }
     ],
     "mediaTitle": "O mar em One Piece",
@@ -61,22 +61,22 @@ const STORY_DATA = {
     "number": "03",
     "visual": "quad-nmixx",
     "palette": "#c1b4ff",
-    "hook": "Você veio ver o portal. Quase passou direto pelo que estava bem aos seus pés.",
+    "hook": "O portal aparece no reflexo. Quando você levanta a cabeça, o céu está vazio.",
     "scenes": [
       {
-        "label": "01 · O encontro",
-        "title": "O céu desceu até a água",
-        "text": "O arco de luz aparece sobre o mar. Você se aproxima da margem e tenta enxergar o outro lado. O reflexo se desfaz a cada onda. Parece a entrada de um lugar que ninguém colocou no mapa."
+        "label": "01 · A margem",
+        "title": "Tinha alguma coisa no reflexo",
+        "text": "Você volta a olhar para a água. O arco continua lá, violeta, enorme, tremendo a cada ondinha. No céu, nada. Você muda de lugar para ver se é o reflexo de alguma luz atrás das pedras. O arco acompanha seu olhar.\n\nA vontade é chegar mais perto. Você dá um passo pela margem, mas o pé afunda na lama e faz um barulho alto demais naquele silêncio. O reflexo se apaga. Por alguns segundos, sobra só o céu escuro na superfície. Então uma pontinha de luz reaparece, bem junto às plantas."
       },
       {
-        "label": "02 · A pausa",
-        "title": "Um movimento pequeno",
-        "text": "Antes do próximo passo, alguma coisa se mexe perto de uma pedra. É um peixe pequeno. Um pouco adiante, plantas crescem na parte rasa. Você se abaixa para olhar. O portal continua lá, mas já não é a única coisa interessante da paisagem."
+        "label": "02 · A espera",
+        "title": "Uma luz entre as raízes",
+        "text": "Você se abaixa sem sair da margem. A pontinha se move, e por um instante parece que alguma coisa está vindo do portal. É um peixe pequeno passando entre as raízes. Outro aparece atrás dele. Você nem tinha reparado que havia água suficiente ali para os dois.\n\nO arco começa a se formar outra vez, mas agora você enxerga a margem dentro dele: as pedras, as plantas, os peixes. Bem no centro, uma imagem demora mais a aparecer. Tem uma ponte de concreto. Uma placa que você conhece. É o rio que passa perto da sua escola."
       },
       {
-        "label": "03 · A descoberta",
-        "title": "Anota esse lugar",
-        "text": "Você fica mais um pouco e tenta acompanhar o peixe entre as plantas. A margem, que parecia vazia de longe, tem abrigo e alimento para outros seres. Quando vai embora, guarda uma ideia: descobrir o que vive nos rios e nas áreas alagadas perto de casa."
+        "label": "03 · A passagem",
+        "title": "Você reconheceu a ponte",
+        "text": "No reflexo, um ônibus atravessa a ponte. Você tenta acompanhar a rua até a escola, mas o arco corta a imagem antes da esquina. Aquele rio sempre esteve no caminho. Você já passou por cima dele conversando, olhando o celular, atrasado pra aula. Nunca ficou tempo suficiente para saber se também havia peixes ali.\n\nUma onda pequena atravessa o arco. A ponte some primeiro, depois a placa. Você espera a água sossegar. O portal não volta. Os peixes continuam entre as raízes. Antes de ir embora, você abre o mapa no celular e procura o nome daquele rio."
       }
     ],
     "mediaTitle": "O portal de AD MARE",
@@ -90,22 +90,22 @@ const STORY_DATA = {
     "number": "04",
     "visual": "quad-wjsn",
     "palette": "#ffa7df",
-    "hook": "A água-viva some atrás de um coral. Você vai seguindo, até ela sair de vista.",
+    "hook": "A água-viva atravessa um arco de coral. Atrás dela, alguma coisa se mexe no escuro.",
     "scenes": [
       {
         "label": "01 · O mergulho",
-        "title": "Devagar, pra não perder de vista",
-        "text": "A água-viva passa entre os raios de luz. Você acompanha de longe, olhando os tentáculos se curvarem com a água. Perto do fundo, peixes pequenos entram e saem de frestas. É fácil ficar ali só observando."
+        "title": "Atrás do arco",
+        "text": "Você tenta acompanhar a água-viva sem se aproximar dos tentáculos. A parte de cima parece guardar um pedaço da luz que vem da superfície. Quando ela passa pelo arco, alguma coisa se move atrás do coral. Você para. O guia, um pouco à frente, também percebe.\n\nUm peixe sai da sombra e desaparece numa fresta. Por um instante, você acha que foi só isso. Mas o movimento continua, lento, preso no mesmo lugar. O guia acende a lanterna. O feixe encontra uma linha fina esticada entre duas pedras."
       },
       {
-        "label": "02 · A ausência",
-        "title": "Um trecho sem esconderijos",
-        "text": "Mais adiante, o fundo muda. Os corais e as frestas dão lugar a um espaço quase vazio. Você procura os peixes que viu antes. Sem aqueles lugares, fica mais difícil encontrar abrigo. A água-viva já seguiu, mas você demora a sair dali."
+        "label": "02 · A sombra",
+        "title": "A linha não era uma planta",
+        "text": "Tem outra linha atrás da primeira. E mais uma, quase invisível. Você precisa olhar de lado para perceber o pedaço de rede enroscado no fundo. A corrente puxa a malha, solta, puxa de novo. Era aquilo que se mexia atrás do coral.\n\nO guia faz sinal para manter distância e fotografa o lugar. Você olha em volta. Os peixes ainda usam as frestas, passando perto dos fios sem que você consiga prever para onde vão. A água-viva já sumiu. Agora é difícil prestar atenção em qualquer coisa além daquela rede."
       },
       {
-        "label": "03 · A superfície",
-        "title": "O lugar também precisa continuar",
-        "text": "Quando você volta à superfície, lembra dos peixes entrando nas frestas. Preservar a vida no mar inclui manter esses abrigos. A qualidade da água e o estado do fundo importam para quem passa a vida inteira lá embaixo."
+        "label": "03 · De volta",
+        "title": "O vídeo tinha mais um detalhe",
+        "text": "Na superfície, o guia explica que vai comunicar a localização a uma equipe preparada para avaliar a retirada. A foto ajuda a encontrar o ponto sem precisar procurar tudo de novo. Você tenta descrever como a rede parecia uma planta no escuro. Fora da água, a explicação soa estranha. Lá embaixo, foi o que você viu.\n\nMais tarde, você revê o vídeo do mergulho. Pouco antes de a lanterna acender, um peixe pequeno entra na fresta junto à linha. Você pausa e aumenta a imagem. O lugar onde quase não tinha reparado era o esconderijo dele. A rede continua aparecendo no canto da tela."
       }
     ],
     "mediaTitle": "Sereias em Last Sequence",
