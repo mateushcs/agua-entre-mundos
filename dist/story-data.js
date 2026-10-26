@@ -26,7 +26,24 @@ const STORY_DATA = {
     "sustTitle": "Antes de chegar ao canal",
     "sustText": "O esgoto precisa ser tratado antes de voltar aos rios e canais. Melhorar esse tratamento e reduzir a poluição são metas do ODS 6, o objetivo da ONU dedicado à água e ao saneamento.",
     "idea": "Os cuidados com a água começam antes do passeio: no tratamento de esgoto e na coleta de resíduos da cidade.",
-    "describe": "Ilustrações originais de uma cidade atravessada por canais ao amanhecer. Uma pequena gôndola passa entre edifícios iluminados; a água reflete o céu dourado. Em primeiro plano, uma gôndola escura com detalhes dourados e um remo desliza sobre pinceladas de água turquesa. São imagens de fantasia, não cenas oficiais de ARIA."
+    "describe": "Ilustrações originais de uma cidade atravessada por canais ao amanhecer. Uma pequena gôndola passa entre edifícios iluminados; a água reflete o céu dourado. Em primeiro plano, uma gôndola escura com detalhes dourados e um remo desliza sobre pinceladas de água turquesa. São imagens de fantasia, não cenas oficiais de ARIA.",
+    "question": {
+      "prompt": "A passagem foi liberada. O que ajudaria a evitar outro bloqueio no canal?",
+      "choices": [
+        {
+          "text": "Manter a coleta de resíduos e tratar o esgoto da cidade.",
+          "feedback": "Esses cuidados precisam continuar depois que o barco passa. A coleta ajuda a evitar resíduos no canal, e o tratamento de esgoto protege a qualidade da água. São serviços que a cidade precisa manter."
+        },
+        {
+          "text": "Limpar só quando outro barco ficar preso.",
+          "feedback": "Retirar o bloqueio ajuda naquele momento. Se os resíduos continuarem chegando, outro barco pode ficar preso. A coleta regular e o tratamento de esgoto também precisam fazer parte do cuidado com o canal."
+        },
+        {
+          "text": "Mudar o passeio para outro canal.",
+          "feedback": "Foi o que a gondoleira precisou fazer para seguir viagem. Mas quem usa aquela passagem todos os dias continua com o problema. Evitar novos bloqueios depende também da coleta de resíduos e do cuidado com a água."
+        }
+      ]
+    }
   },
   "onepiece": {
     "number": "02",
@@ -55,7 +72,24 @@ const STORY_DATA = {
     "sustTitle": "Do bairro até o mar",
     "sustText": "Resíduos e esgoto de áreas terrestres podem alcançar rios, praias e oceanos. O PNUMA, programa da ONU para o meio ambiente, trata esse percurso como parte do problema. O cuidado com o mar inclui o saneamento e o descarte em lugares bem longe da costa.",
     "idea": "O que chega ao oceano pode ter começado bem longe da praia. Cuidar dos rios e do saneamento também faz parte de proteger o mar.",
-    "describe": "Ilustrações originais de um navio à vela cortando ondas intensas sob um céu cor de laranja ao pôr do sol. Em primeiro plano, outro navio de madeira escura tem grandes velas claras iluminadas em dourado e espuma ao redor do casco. As imagens não representam cenas nem personagens de One Piece."
+    "describe": "Ilustrações originais de um navio à vela cortando ondas intensas sob um céu cor de laranja ao pôr do sol. Em primeiro plano, outro navio de madeira escura tem grandes velas claras iluminadas em dourado e espuma ao redor do casco. As imagens não representam cenas nem personagens de One Piece.",
+    "question": {
+      "prompt": "O capitão te entrega um mapa maior. Por onde você começaria a investigar o que chega ao mar?",
+      "choices": [
+        {
+          "text": "Só pela areia da praia.",
+          "feedback": "A praia mostra parte do que chegou. Para descobrir de onde os resíduos vêm, vale seguir o rio e olhar também para as cidades e os serviços de saneamento ao longo do caminho."
+        },
+        {
+          "text": "Pelo rio e pelos lugares que ele atravessa.",
+          "feedback": "É o caminho que faltava naquele mapa. Resíduos e esgoto podem chegar ao mar pelos rios. Investigar o percurso ajuda a entender o que precisa mudar em terra, inclusive no saneamento e na coleta."
+        },
+        {
+          "text": "Esperaria a corrente levar tudo para longe.",
+          "feedback": "A corrente muda os resíduos de lugar; eles continuam na água e podem atingir outros ambientes. Seguir o rio no mapa ajuda a procurar a origem do problema."
+        }
+      ]
+    }
   },
   "nmixx": {
     "number": "03",
@@ -84,7 +118,24 @@ const STORY_DATA = {
     "sustTitle": "Os lugares onde a água fica",
     "sustText": "Rios, lagos e áreas úmidas, como os brejos, abrigam muitas formas de vida. Proteger e recuperar esses ambientes faz parte do ODS 6. Conhecer o que existe perto de você ajuda a acompanhar o que acontece com esses lugares.",
     "idea": "Rios, lagos e brejos abrigam vida. Conhecer esses ambientes é um começo para acompanhar como são cuidados.",
-    "describe": "Ilustrações originais de uma costa fantástica à noite. O oceano reflete estrelas diante de um grande arco luminoso no céu violeta. Uma figura observa a paisagem de longe. Em primeiro plano, um portal oval combina ondas prateadas e violetas, gotas e estrelas. As imagens não representam integrantes nem uma cena oficial do NMIXX."
+    "describe": "Ilustrações originais de uma costa fantástica à noite. O oceano reflete estrelas diante de um grande arco luminoso no céu violeta. Uma figura observa a paisagem de longe. Em primeiro plano, um portal oval combina ondas prateadas e violetas, gotas e estrelas. As imagens não representam integrantes nem uma cena oficial do NMIXX.",
+    "question": {
+      "prompt": "Você achou o rio da escola no mapa. Como começaria a conhecê-lo sem danificar a margem?",
+      "choices": [
+        {
+          "text": "Entrando na água para procurar peixes.",
+          "feedback": "Você pode começar sem entrar na água, principalmente se não conhece as condições do lugar. Observar de um ponto seguro e buscar informações sobre o rio já ajuda a descobrir quem vive ali."
+        },
+        {
+          "text": "Retirando as plantas para enxergar melhor.",
+          "feedback": "As plantas também fazem parte do ambiente: no conto, os peixes usavam as raízes como abrigo. Observe sem retirar nada e procure informações sobre a água e as espécies do lugar."
+        },
+        {
+          "text": "Observando de um lugar seguro e buscando informações sobre a água e as espécies.",
+          "feedback": "Foi uma descoberta parecida com a do conto: um lugar comum no caminho pode abrigar muita vida. Conhecer o rio e buscar informações sobre sua água e suas espécies ajuda a acompanhar como ele está sendo cuidado."
+        }
+      ]
+    }
   },
   "wjsn": {
     "number": "04",
@@ -113,6 +164,23 @@ const STORY_DATA = {
     "sustTitle": "Casa de peixe também é habitat",
     "sustText": "Habitat é o lugar onde uma espécie vive e encontra condições para sobreviver. Poluição e degradação desses ambientes ameaçam a vida aquática, como explica o PNUMA. Proteger as espécies também exige cuidar dos lugares que elas usam.",
     "idea": "Proteger a vida aquática envolve cuidar da qualidade da água e dos lugares onde as espécies se alimentam, encontram abrigo e se reproduzem.",
-    "describe": "Ilustrações originais de um ambiente submarino azul iluminado por raios de sol. Cardumes, corais rosados e águas-vivas aparecem diante de ruínas fantásticas. Em primeiro plano, uma grande água-viva luminosa tem a parte superior azul-clara e longos tentáculos rosados; um pequeno coral acompanha suas curvas. Não são cenas oficiais do WJSN."
+    "describe": "Ilustrações originais de um ambiente submarino azul iluminado por raios de sol. Cardumes, corais rosados e águas-vivas aparecem diante de ruínas fantásticas. Em primeiro plano, uma grande água-viva luminosa tem a parte superior azul-clara e longos tentáculos rosados; um pequeno coral acompanha suas curvas. Não são cenas oficiais do WJSN.",
+    "question": {
+      "prompt": "Você encontra outra rede presa perto do coral. Como pode ajudar?",
+      "choices": [
+        {
+          "text": "Anotando a localização e avisando o guia ou uma equipe preparada.",
+          "feedback": "Foi o cuidado do guia no conto. A localização ajuda uma equipe preparada a encontrar a rede e avaliar como retirá-la sem colocar pessoas ou o ambiente em risco."
+        },
+        {
+          "text": "Puxando a rede por conta própria.",
+          "feedback": "A rede pode estar presa no coral ou em animais. Puxá-la sem preparo pode piorar o problema e colocar você em risco. Mantenha distância e comunique a localização ao guia ou a uma equipe preparada."
+        },
+        {
+          "text": "Espantando os peixes para longe.",
+          "feedback": "As frestas são abrigo dos peixes, e a rede continuaria lá. Ajudar envolve cuidar desse lugar: manter distância e informar a localização a quem possa avaliar a retirada."
+        }
+      ]
+    }
   }
 };

@@ -1,0 +1,171 @@
+{
+  "errors": [],
+  "flows": [
+    {
+      "id": "aria",
+      "choices": 3,
+      "keyboard": true,
+      "inlineFeedback": true,
+      "focusRetained": true,
+      "allFeedbackMatches": true
+    },
+    {
+      "id": "onepiece",
+      "choices": 3,
+      "keyboard": true,
+      "inlineFeedback": true,
+      "focusRetained": true,
+      "allFeedbackMatches": true
+    },
+    {
+      "id": "nmixx",
+      "choices": 3,
+      "keyboard": true,
+      "inlineFeedback": true,
+      "focusRetained": true,
+      "allFeedbackMatches": true
+    },
+    {
+      "id": "wjsn",
+      "choices": 3,
+      "keyboard": true,
+      "inlineFeedback": true,
+      "focusRetained": true,
+      "allFeedbackMatches": true
+    }
+  ],
+  "layouts": [
+    {
+      "id": "aria",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "id": "onepiece",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "id": "nmixx",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "id": "wjsn",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "id": "aria",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "id": "onepiece",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "id": "nmixx",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "id": "wjsn",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "id": "aria",
+      "width": 1280,
+      "overflow": false
+    },
+    {
+      "id": "onepiece",
+      "width": 1280,
+      "overflow": false
+    },
+    {
+      "id": "nmixx",
+      "width": 1280,
+      "overflow": false
+    },
+    {
+      "id": "wjsn",
+      "width": 1280,
+      "overflow": false
+    }
+  ],
+  "audits": [
+    {
+      "id": "aria",
+      "dark": false,
+      "violations": [],
+      "incomplete": [
+        "color-contrast"
+      ]
+    },
+    {
+      "id": "aria",
+      "dark": true,
+      "violations": [],
+      "incomplete": [
+        "color-contrast"
+      ]
+    },
+    {
+      "id": "onepiece",
+      "dark": false,
+      "violations": [],
+      "incomplete": [
+        "color-contrast"
+      ]
+    },
+    {
+      "id": "onepiece",
+      "dark": true,
+      "violations": [],
+      "incomplete": [
+        "color-contrast"
+      ]
+    },
+    {
+      "id": "nmixx",
+      "dark": false,
+      "violations": [],
+      "incomplete": [
+        "color-contrast"
+      ]
+    },
+    {
+      "id": "nmixx",
+      "dark": true,
+      "violations": [],
+      "incomplete": [
+        "color-contrast"
+      ]
+    },
+    {
+      "id": "wjsn",
+      "dark": false,
+      "violations": [],
+      "incomplete": [
+        "color-contrast"
+      ]
+    },
+    {
+      "id": "wjsn",
+      "dark": true,
+      "violations": [],
+      "incomplete": [
+        "color-contrast"
+      ]
+    }
+  ],
+  "text200Spacing": {
+    "width": 320,
+    "overflow": false
+  },
+  "forcedColors": true,
+  "noJsReading": true
+}
